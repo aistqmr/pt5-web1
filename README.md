@@ -1,8 +1,8 @@
 # Tugas Pertemuan 5 - Pemrograman Web 1
 
-**Nama:** Ai Siti Qomariah
-**NIM:** 24552011276
-**Kelas:** TIF RP 24 B CID
+* **Nama:** Ai Siti Qomariah
+* **NIM:** 24552011276
+* **Kelas:** TIF RP 24 B CID
 
 ## Deskripsi Tugas
 Website satu halaman interaktif menggunakan HTML, CSS, dan JavaScript dengan fitur:
