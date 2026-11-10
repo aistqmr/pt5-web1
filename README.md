@@ -11,4 +11,4 @@ Website satu halaman interaktif menggunakan HTML, CSS, dan JavaScript dengan fit
 - Tombol ubah teks secara dinamis (DOM Manipulation).
 
 ## Screenshot Tampilan
-<img width="1918" height="1079" alt="page" src="https://github.com/user-attachments/assets/45796380-787d-4c4a-b6e8-4adc1a2b75ae" />
+<img width="500" height="400" alt="ss" src="https://github.com/user-attachments/assets/89e6db42-bc95-4de4-9194-fb561f1fe000" />
